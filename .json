@@ -1,152 +1,154 @@
-1 mutation = GOLD
-10 mutation = CURSED
-10th fuse machine = NEWYEARSMACHINE
-10th fuse machine ?? = NEWYEARSMACHINE
-10th fuse machine again = NEWYEARSMACHINE
-10th fuse machine now = NEWYEARSMACHINE
-10th fuse machine please = NEWYEARSMACHINE
-10th fuse machine pls = NEWYEARSMACHINE
-10th fuse machine plz = NEWYEARSMACHINE
-10th fuse machine!!! = NEWYEARSMACHINE
-10th fuse machine? = NEWYEARSMACHINE
-10th machine = NEWYEARSMACHINE
-10th machine ?? = NEWYEARSMACHINE
-10th machine again = NEWYEARSMACHINE
-10th machine name = NEWYEARSMACHINE
-10th machine name ?? = NEWYEARSMACHINE
-10th machine name again = NEWYEARSMACHINE
-10th machine name now = NEWYEARSMACHINE
-10th machine name please = NEWYEARSMACHINE
-10th machine name pls = NEWYEARSMACHINE
-10th machine name plz = NEWYEARSMACHINE
-10th machine name!!! = NEWYEARSMACHINE
-10th machine name? = NEWYEARSMACHINE
-10th machine now = NEWYEARSMACHINE
-10th machine please = NEWYEARSMACHINE
-10th machine pls = NEWYEARSMACHINE
-10th machine plz = NEWYEARSMACHINE
-10th machine!!! = NEWYEARSMACHINE
-10th machine? = NEWYEARSMACHINE
-10th mutation = CURSED
-10th mutation ?? = CURSED
-10th mutation again = CURSED
-10th mutation name = CURSED
-10th mutation name ?? = CURSED
-10th mutation name again = CURSED
-10th mutation name now = CURSED
-10th mutation name please = CURSED
-10th mutation name pls = CURSED
-10th mutation name plz = CURSED
-10th mutation name!!! = CURSED
-10th mutation name? = CURSED
-10th mutation now = CURSED
-10th mutation please = CURSED
-10th mutation pls = CURSED
-10th mutation plz = CURSED
-10th mutation!!! = CURSED
-10th mutation? = CURSED
-11th fuse machine = DUELSMACHINE
-11th fuse machine ?? = DUELSMACHINE
-11th fuse machine again = DUELSMACHINE
-11th fuse machine now = DUELSMACHINE
-11th fuse machine please = DUELSMACHINE
-11th fuse machine pls = DUELSMACHINE
-11th fuse machine plz = DUELSMACHINE
-11th fuse machine!!! = DUELSMACHINE
-11th fuse machine? = DUELSMACHINE
-11th machine = DUELSMACHINE
-11th machine ?? = DUELSMACHINE
-11th machine again = DUELSMACHINE
-11th machine name = DUELSMACHINE
-11th machine name ?? = DUELSMACHINE
-11th machine name again = DUELSMACHINE
-11th machine name now = DUELSMACHINE
-11th machine name please = DUELSMACHINE
-11th machine name pls = DUELSMACHINE
-11th machine name plz = DUELSMACHINE
-11th machine name!!! = DUELSMACHINE
-11th machine name? = DUELSMACHINE
-11th machine now = DUELSMACHINE
-11th machine please = DUELSMACHINE
-11th machine pls = DUELSMACHINE
-11th machine plz = DUELSMACHINE
-11th machine!!! = DUELSMACHINE
-11th machine? = DUELSMACHINE
-11th mutation = DIVINE
-11th mutation ?? = DIVINE
-11th mutation again = DIVINE
-11th mutation name = DIVINE
-11th mutation name ?? = DIVINE
-11th mutation name again = DIVINE
-11th mutation name now = DIVINE
-11th mutation name please = DIVINE
-11th mutation name pls = DIVINE
-11th mutation name plz = DIVINE
-11th mutation name!!! = DIVINE
-11th mutation name? = DIVINE
-11th mutation now = DIVINE
-11th mutation please = DIVINE
-11th mutation pls = DIVINE
-11th mutation plz = DIVINE
-11th mutation!!! = DIVINE
-11th mutation? = DIVINE
-12th fuse machine = CUPIDSMACHINE
-12th fuse machine ?? = CUPIDSMACHINE
-12th fuse machine again = CUPIDSMACHINE
-12th fuse machine now = CUPIDSMACHINE
-12th fuse machine please = CUPIDSMACHINE
-12th fuse machine pls = CUPIDSMACHINE
-12th fuse machine plz = CUPIDSMACHINE
-12th fuse machine!!! = CUPIDSMACHINE
-12th fuse machine? = CUPIDSMACHINE
-12th machine = CUPIDSMACHINE
-12th machine ?? = CUPIDSMACHINE
-12th machine again = CUPIDSMACHINE
-12th machine name = CUPIDSMACHINE
-12th machine name ?? = CUPIDSMACHINE
-12th machine name again = CUPIDSMACHINE
-12th machine name now = CUPIDSMACHINE
-12th machine name please = CUPIDSMACHINE
-12th machine name pls = CUPIDSMACHINE
-12th machine name plz = CUPIDSMACHINE
-12th machine name!!! = CUPIDSMACHINE
-12th machine name? = CUPIDSMACHINE
-12th machine now = CUPIDSMACHINE
-12th machine please = CUPIDSMACHINE
-12th machine pls = CUPIDSMACHINE
-12th machine plz = CUPIDSMACHINE
-12th machine!!! = CUPIDSMACHINE
-12th machine? = CUPIDSMACHINE
-12th mutation = CYBER
-best mutation = CRYSTAL
-favorite brainrot = SAMMYNISPYDERINI
-grass color = GREEN
-latest machine = RNG
-least favorite brainrot = RACCONIJANDELINI
-my country = BRAZIL
-my least favorite brainrot = RACCONIJANDELINI
-my name = SPYDERSAMMY
-new machine = RNG
-newest machine = RNG
-newest machine in the game = RNG
-sammy favorite game = GROWAGARDEN
-sky color = BLUE
-the first secret = LAVACCA
-the most expensive brainrot = SPYDERELEPHANT
-unobtainable og = HEADLESSHORSEMAN
-what color is the grass = GREEN
-what color is the sky = BLUE
-what is an unobtainable og = HEADLESSHORSEMAN
-what is my least favorite brainrot = RACCONIJANDELINI
-what is the first brainrot = NOOBINIPIZZANINI
-what is the first trait = FIREWORKS
-what is the newest machine = RNG
-what is the newest machine in the game = RNG
-whats my favorite brainrot = MEOWL
-whats my favorite travis scott album = ASTROWORLD
-whats my least favorite brainrot = RACCONIJANDELINI
-whats the first og = STRAWBERRYELEPHANT
-whats the rarest brainrot = SIGNORECARAPACE
-whats the worst secret = KARKERKARKURKUR
-whats unobtainable og = HEADLESSHORSEMAN
-where will i ago after admin abuse = GYM
+{
+  "1 mutation": "GOLD",
+  "10 mutation": "CURSED",
+  "10th fuse machine": "NEWYEARSMACHINE",
+  "10th fuse machine ??": "NEWYEARSMACHINE",
+  "10th fuse machine again": "NEWYEARSMACHINE",
+  "10th fuse machine now": "NEWYEARSMACHINE",
+  "10th fuse machine please": "NEWYEARSMACHINE",
+  "10th fuse machine pls": "NEWYEARSMACHINE",
+  "10th fuse machine plz": "NEWYEARSMACHINE",
+  "10th fuse machine!!!": "NEWYEARSMACHINE",
+  "10th fuse machine?": "NEWYEARSMACHINE",
+  "10th machine": "NEWYEARSMACHINE",
+  "10th machine ??": "NEWYEARSMACHINE",
+  "10th machine again": "NEWYEARSMACHINE",
+  "10th machine name": "NEWYEARSMACHINE",
+  "10th machine name ??": "NEWYEARSMACHINE",
+  "10th machine name again": "NEWYEARSMACHINE",
+  "10th machine name now": "NEWYEARSMACHINE",
+  "10th machine name please": "NEWYEARSMACHINE",
+  "10th machine name pls": "NEWYEARSMACHINE",
+  "10th machine name plz": "NEWYEARSMACHINE",
+  "10th machine name!!!": "NEWYEARSMACHINE",
+  "10th machine name?": "NEWYEARSMACHINE",
+  "10th machine now": "NEWYEARSMACHINE",
+  "10th machine please": "NEWYEARSMACHINE",
+  "10th machine pls": "NEWYEARSMACHINE",
+  "10th machine plz": "NEWYEARSMACHINE",
+  "10th machine!!!": "NEWYEARSMACHINE",
+  "10th machine?": "NEWYEARSMACHINE",
+  "10th mutation": "CURSED",
+  "10th mutation ??": "CURSED",
+  "10th mutation again": "CURSED",
+  "10th mutation name": "CURSED",
+  "10th mutation name ??": "CURSED",
+  "10th mutation name again": "CURSED",
+  "10th mutation name now": "CURSED",
+  "10th mutation name please": "CURSED",
+  "10th mutation name pls": "CURSED",
+  "10th mutation name plz": "CURSED",
+  "10th mutation name!!!": "CURSED",
+  "10th mutation name?": "CURSED",
+  "10th mutation now": "CURSED",
+  "10th mutation please": "CURSED",
+  "10th mutation pls": "CURSED",
+  "10th mutation plz": "CURSED",
+  "10th mutation!!!": "CURSED",
+  "10th mutation?": "CURSED",
+  "11th fuse machine": "DUELSMACHINE",
+  "11th fuse machine ??": "DUELSMACHINE",
+  "11th fuse machine again": "DUELSMACHINE",
+  "11th fuse machine now": "DUELSMACHINE",
+  "11th fuse machine please": "DUELSMACHINE",
+  "11th fuse machine pls": "DUELSMACHINE",
+  "11th fuse machine plz": "DUELSMACHINE",
+  "11th fuse machine!!!": "DUELSMACHINE",
+  "11th fuse machine?": "DUELSMACHINE",
+  "11th machine": "DUELSMACHINE",
+  "11th machine ??": "DUELSMACHINE",
+  "11th machine again": "DUELSMACHINE",
+  "11th machine name": "DUELSMACHINE",
+  "11th machine name ??": "DUELSMACHINE",
+  "11th machine name again": "DUELSMACHINE",
+  "11th machine name now": "DUELSMACHINE",
+  "11th machine name please": "DUELSMACHINE",
+  "11th machine name pls": "DUELSMACHINE",
+  "11th machine name plz": "DUELSMACHINE",
+  "11th machine name!!!": "DUELSMACHINE",
+  "11th machine name?": "DUELSMACHINE",
+  "11th machine now": "DUELSMACHINE",
+  "11th machine please": "DUELSMACHINE",
+  "11th machine pls": "DUELSMACHINE",
+  "11th machine plz": "DUELSMACHINE",
+  "11th machine!!!": "DUELSMACHINE",
+  "11th machine?": "DUELSMACHINE",
+  "11th mutation": "DIVINE",
+  "11th mutation ??": "DIVINE",
+  "11th mutation again": "DIVINE",
+  "11th mutation name": "DIVINE",
+  "11th mutation name ??": "DIVINE",
+  "11th mutation name again": "DIVINE",
+  "11th mutation name now": "DIVINE",
+  "11th mutation name please": "DIVINE",
+  "11th mutation name pls": "DIVINE",
+  "11th mutation name plz": "DIVINE",
+  "11th mutation name!!!": "DIVINE",
+  "11th mutation name?": "DIVINE",
+  "11th mutation now": "DIVINE",
+  "11th mutation please": "DIVINE",
+  "11th mutation pls": "DIVINE",
+  "11th mutation plz": "DIVINE",
+  "11th mutation!!!": "DIVINE",
+  "11th mutation?": "DIVINE",
+  "12th fuse machine": "CUPIDSMACHINE",
+  "12th fuse machine ??": "CUPIDSMACHINE",
+  "12th fuse machine again": "CUPIDSMACHINE",
+  "12th fuse machine now": "CUPIDSMACHINE",
+  "12th fuse machine please": "CUPIDSMACHINE",
+  "12th fuse machine pls": "CUPIDSMACHINE",
+  "12th fuse machine plz": "CUPIDSMACHINE",
+  "12th fuse machine!!!": "CUPIDSMACHINE",
+  "12th fuse machine?": "CUPIDSMACHINE",
+  "12th machine": "CUPIDSMACHINE",
+  "12th machine ??": "CUPIDSMACHINE",
+  "12th machine again": "CUPIDSMACHINE",
+  "12th machine name": "CUPIDSMACHINE",
+  "12th machine name ??": "CUPIDSMACHINE",
+  "12th machine name again": "CUPIDSMACHINE",
+  "12th machine name now": "CUPIDSMACHINE",
+  "12th machine name please": "CUPIDSMACHINE",
+  "12th machine name pls": "CUPIDSMACHINE",
+  "12th machine name plz": "CUPIDSMACHINE",
+  "12th machine name!!!": "CUPIDSMACHINE",
+  "12th machine name?": "CUPIDSMACHINE",
+  "12th machine now": "CUPIDSMACHINE",
+  "12th machine please": "CUPIDSMACHINE",
+  "12th machine pls": "CUPIDSMACHINE",
+  "12th machine plz": "CUPIDSMACHINE",
+  "12th machine!!!": "CUPIDSMACHINE",
+  "12th machine?": "CUPIDSMACHINE",
+  "12th mutation": "CYBER",
+  "best mutation": "CRYSTAL",
+  "favorite brainrot": "SAMMYNISPYDERINI",
+  "grass color": "GREEN",
+  "latest machine": "RNG",
+  "least favorite brainrot": "RACCONIJANDELINI",
+  "my country": "BRAZIL",
+  "my least favorite brainrot": "RACCONIJANDELINI",
+  "my name": "SPYDERSAMMY",
+  "new machine": "RNG",
+  "newest machine": "RNG",
+  "newest machine in the game": "RNG",
+  "sammy favorite game": "GROWAGARDEN",
+  "sky color": "BLUE",
+  "the first secret": "LAVACCA",
+  "the most expensive brainrot": "SPYDERELEPHANT",
+  "unobtainable og": "HEADLESSHORSEMAN",
+  "what color is the grass": "GREEN",
+  "what color is the sky": "BLUE",
+  "what is an unobtainable og": "HEADLESSHORSEMAN",
+  "what is my least favorite brainrot": "RACCONIJANDELINI",
+  "what is the first brainrot": "NOOBINIPIZZANINI",
+  "what is the first trait": "FIREWORKS",
+  "what is the newest machine": "RNG",
+  "what is the newest machine in the game": "RNG",
+  "whats my favorite brainrot": "MEOWL",
+  "whats my favorite travis scott album": "ASTROWORLD",
+  "whats my least favorite brainrot": "RACCONIJANDELINI",
+  "whats the first og": "STRAWBERRYELEPHANT",
+  "whats the rarest brainrot": "SIGNORECARAPACE",
+  "whats the worst secret": "KARKERKARKURKUR",
+  "whats unobtainable og": "HEADLESSHORSEMAN",
+  "where will i ago after admin abuse": "GYM"
+}
